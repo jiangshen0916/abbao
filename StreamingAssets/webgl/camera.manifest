@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1491486955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dc19f3680b28a224b652f957313afbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ade0906da2404468b76c766d231ab3ab
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5dc19f3680b28a224b652f957313afbf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Main Camera.prefab
+Dependencies: []
