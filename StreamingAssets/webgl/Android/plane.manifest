@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2218569103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfce0c1d6a5a742bb1227a2015115451
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cfce0c1d6a5a742bb1227a2015115451
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Prefab/\u661F\u56ED\u5730\u976201.prefab"
+Dependencies: []
