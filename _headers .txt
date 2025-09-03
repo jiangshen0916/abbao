@@ -1,7 +1,0 @@
-/*.unity3d
-  Content-Type: application/octet-stream
-  Access-Control-Allow-Origin: *
-
-/AssetBundles/*
-  Content-Type: application/octet-stream
-  Access-Control-Allow-Origin: *
