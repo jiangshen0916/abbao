@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 369032545
+CRC: 3346003234
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6116fc6ce2b30997c24167370b64d404
+    Hash: 10d8a31ba3c18174bd8a5d608dce5740
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0b57f674c07541440b80062ddecc5d89
+    Hash: 48f9e47804cc6149eb45c38c55466448
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6116fc6ce2b30997c24167370b64d404
+    Hash: 10d8a31ba3c18174bd8a5d608dce5740
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,17 +20,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefab/aa.prefab
-Dependencies: []
+- Assets/Prefab/Model/aa.prefab
+Dependencies:
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/cubcolor"
