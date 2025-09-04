@@ -1,20 +1,14 @@
 ManifestFileVersion: 0
-CRC: 1241070351
+CRC: 3679986928
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: model
-      Dependencies: {}
-    Info_1:
-      Name: plane
-      Dependencies: {}
-    Info_2:
       Name: cube
       Dependencies:
-        Dependency_0: cubcolor
-    Info_3:
+        Dependency_0: mater
+    Info_1:
       Name: camera
       Dependencies: {}
-    Info_4:
-      Name: cubcolor
+    Info_2:
+      Name: mater
       Dependencies: {}
