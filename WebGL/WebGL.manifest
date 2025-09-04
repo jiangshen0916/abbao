@@ -1,14 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3679986928
+CRC: 1959414845
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: cube
-      Dependencies:
-        Dependency_0: mater
-    Info_1:
       Name: camera
       Dependencies: {}
-    Info_2:
-      Name: mater
+    Info_1:
+      Name: cube
       Dependencies: {}

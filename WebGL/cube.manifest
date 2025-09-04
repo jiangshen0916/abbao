@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3237591534
+CRC: 3805400965
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 081ccbaed33f350595f71a2b28bd0215
+    Hash: 456d9ee46d9c941dfbd278838146af83
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 48f9e47804cc6149eb45c38c55466448
+    Hash: 0b57f674c07541440b80062ddecc5d89
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 081ccbaed33f350595f71a2b28bd0215
+    Hash: 456d9ee46d9c941dfbd278838146af83
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,14 +20,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Model/aa.prefab
-Dependencies:
-- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater"
+Dependencies: []
