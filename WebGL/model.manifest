@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1091204458
+CRC: 1558988223
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 699c8e042aff2a8258b7a28786b8651d
+    Hash: e362b82ab9e86e63dfb10c6513497ed7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 134b7874faf1e4f485ed3c5a681e862b
+    Hash: d27d605e56b00c7d193d3604b99a7461
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 699c8e042aff2a8258b7a28786b8651d
+    Hash: e362b82ab9e86e63dfb10c6513497ed7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,13 +20,42 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/mod/Materials/3#_D8001_CF_D_V1.mat
+- Assets/mod/Materials/3#_M1001_CF_V2.mat
+- Assets/mod/Materials/3#_D5001_CF_D_V20.mat
 - "Assets/mod/\u661F\u56ED\u4E3B\u697C.FBX"
+- Assets/mod/Materials/3#_D7004_CF_D_V2.mat
+- Assets/mod/Materials/3#_M7004_CF_V31.mat
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D6021_CF_D_V2.jpg"
+- Assets/mod/Materials/3#_T6001_CF_V1.mat
+- Assets/mod/Materials/3#_D1001_CF_D_V1.mat
+- Assets/mod/Materials/3#_M3021_CF_V1.mat
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D3001_CF_D_V1.jpg"
+- Assets/mod/Materials/3#_M9001_CF_V2.mat
+- Assets/mod/Materials/3#_D3001_CF_D_V1.mat
+- Assets/mod/Materials/3#_M3061_CF_V1.mat
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D7015_cf_D_V1.PNG"
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D7005_cf_D_V1.jpg"
+- Assets/mod/Materials/3#_D7015_cf_D_V1.mat
+- Assets/mod/Materials/3#_M3001_CF_V1.mat
+- Assets/mod/Materials/3#_M5001_CF_V2.mat
+- Assets/mod/Materials/3#_D7005_cf_D_V1.mat
 - "Assets/Prefab/Model/\u661F\u56ED\u4E3B\u697C.prefab"
-Dependencies:
-- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater"
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D1001_CF_D_V1.jpg"
+- Assets/mod/Materials/3#_D6021_CF_D_V2.mat
+- Assets/mod/Materials/3#_M5002_CF_V11.mat
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D7004_CF_D_V2.jpg"
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D8001_CF_D_V1.jpg"
+- Assets/mod/Materials/3#_M5001_CF_V1.mat
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C01.fbm/3#_D5001_CF_D_V20.jpg"
+Dependencies: []
