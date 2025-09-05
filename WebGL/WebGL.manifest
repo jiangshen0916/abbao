@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 525670513
+CRC: 3813254560
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,10 +10,20 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: plane1
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: "\u661F\u56ED\u5730\u976201"
     Info_3:
       Name: plane2
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: "\u661F\u56ED\u5730\u976201"
     Info_4:
       Name: plane3
+      Dependencies:
+        Dependency_0: "\u661F\u56ED\u5730\u976201"
+    Info_5:
+      Name: mater
       Dependencies: {}
+    Info_6:
+      Name: "\u661F\u56ED\u5730\u976201"
+      Dependencies:
+        Dependency_0: mater
