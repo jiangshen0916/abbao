@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1091204458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 699c8e042aff2a8258b7a28786b8651d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 699c8e042aff2a8258b7a28786b8651d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/mod/\u661F\u56ED\u4E3B\u697C.FBX"
+- "Assets/Prefab/Model/\u661F\u56ED\u4E3B\u697C.prefab"
+Dependencies:
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater"

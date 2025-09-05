@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1666195068
+CRC: 2026991151
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,6 +12,6 @@ AssetBundleManifest:
       Name: mater
       Dependencies: {}
     Info_3:
-      Name: "\u661F\u56ED\u5730\u976201"
+      Name: model
       Dependencies:
         Dependency_0: mater
