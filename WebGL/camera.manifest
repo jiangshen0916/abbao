@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3702718674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0537960d91ae86de56df83a75be5f92e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7034358cb2d82cffbcf1b64e654ac48
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0537960d91ae86de56df83a75be5f92e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7d8880817dd54944bcfb98d59af71ad, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Model/bb.prefab
+Dependencies: []
