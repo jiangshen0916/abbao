@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3808394106
+CRC: 1480424774
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a7db1096508c436f6d502806e382474
+    Hash: ea5c65bd6f3cf9da594a16bec23a69e2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 134b7874faf1e4f485ed3c5a681e862b
+    Hash: d27d605e56b00c7d193d3604b99a7461
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8a7db1096508c436f6d502806e382474
+    Hash: ea5c65bd6f3cf9da594a16bec23a69e2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,12 +20,15 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Prefab/Model/plane3.prefab
-Dependencies:
-- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater1"
+Dependencies: []
