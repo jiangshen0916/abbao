@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 1526030802
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 740e8a1342759dee26222616e7c1441c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 740e8a1342759dee26222616e7c1441c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Materials/SR-Lane-white.mat
+- Assets/Prefab/Materials/3#_M9002_CF_V3.mat
+- Assets/Prefab/Materials/3#_M3003_CF_V3.mat
+- Assets/Prefab/Materials/3#_M9003_CF_V3.mat
+- Assets/Prefab/Materials/3#_D3001_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_D7004_cf_D_V1.mat
+- Assets/Prefab/Materials/3#_M5001_CF_V990.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D6021_CF_D_V1.jpg"
+- Assets/Prefab/Materials/3#_M7001_CF_V21.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D8011_CF_D_V1.jpg"
+- Assets/Prefab/Materials/3#_M1001_CF_V2.mat
+- Assets/Prefab/Materials/3#_M7001_CF_V20.mat
+- Assets/Prefab/Materials/3#_D6021_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_M9001_CF_V2.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7005_CF_N_V001.jpg"
+- Assets/Prefab/Materials/3#_M5002_CF_V11.mat
+- Assets/Prefab/Materials/3#_M7051_CF_V01.mat
+- Assets/Prefab/Materials/3#_M1012_CF_V1.mat
+- Assets/Prefab/Materials/3#_M3021_CF_V1.mat
+- Assets/Prefab/Materials/3#_D7002_CF_D_V200.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7005_cf_D_V1.jpg"
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7001_CF_D_V1.PNG"
+- Assets/Prefab/Materials/3#_D1001_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_M5001_CF_V999.mat
+- Assets/Prefab/Materials/3#_T6001_CF_V1.mat
+- Assets/Prefab/Materials/3#_D7092_CF_D_V001.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7015_cf_D_V1.PNG"
+- Assets/Prefab/Materials/3#_D8011_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_D8001_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_M5001_CF_V1.mat
+- Assets/Prefab/Materials/3#_D7001_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_M3061_CF_V1.mat
+- Assets/Prefab/Materials/3#_D5001_CF_D_V888.mat
+- Assets/Prefab/Materials/3#_D7005_cf_D_V1.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D8001_CF_D_V1.jpg"
+- Assets/Prefab/Materials/3#_M9001_CF_V1.mat
+- Assets/Prefab/Materials/3#_M8002_CF_V2.mat
+- Assets/Prefab/Materials/3#_D6021_CF_D_V2.mat
+- Assets/Prefab/Materials/3#_M7004_CF_V31.mat
+- Assets/Prefab/Materials/3#_M1011_CF_V1.mat
+- Assets/Prefab/Materials/3#_M3001_CF_V1.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7004_cf_D_V1.jpg"
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7005_CF_AO_V001.jpg"
+- Assets/Prefab/Materials/3#_M7001_CF_V12.mat
+- Assets/Prefab/Materials/3#_M7001_CF_V7.mat
+- Assets/Prefab/Materials/3#_D9031_CF_D_V1.mat
+- Assets/Prefab/Materials/3#_M7001_CF_V3.mat
+- Assets/Prefab/Materials/3#_D7004_CF_D_V2.mat
+- Assets/Prefab/Materials/3#_M1011_CF_V2.mat
+- Assets/Prefab/Materials/3#_D7015_cf_D_V1.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7005_CF_D_V001.jpg"
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D5001_CF_D_V20.jpg"
+- Assets/Prefab/Materials/3#_M5001_CF_V2.mat
+- "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7004_CF_D_V2.jpg"
+Dependencies:
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater2"
+- "E:/UnityProjects/AB\u5305/AssetBundles/WebGL/mater3"
