@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2514246052
+CRC: 1838441063
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60262ed89ea2413ee656c5ea98cbcdd1
+    Hash: 67198e2f1ad3060efbd0e74b50f5bf08
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0b57f674c07541440b80062ddecc5d89
+    Hash: 16c8aa2ea7eeb9c3aebb6cebe2273284
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 60262ed89ea2413ee656c5ea98cbcdd1
+    Hash: 67198e2f1ad3060efbd0e74b50f5bf08
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,8 +19,6 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
@@ -32,7 +30,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- "Assets/mod/\u81EA\u53D1\u5149\u73BB\u7483.fbm/3#_D5001_CF_D_V889.jpg"
 - Assets/Prefab/Model/aa.prefab
 - Assets/Prefab/1.mat
 Dependencies: []
