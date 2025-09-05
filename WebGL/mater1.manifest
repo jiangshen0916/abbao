@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1526030802
+CRC: 237792014
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 740e8a1342759dee26222616e7c1441c
+    Hash: 5905a9ab5450c98ca1caed038f55964b
   TypeTreeHash:
     serializedVersion: 2
     Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 740e8a1342759dee26222616e7c1441c
+    Hash: 5905a9ab5450c98ca1caed038f55964b
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -64,6 +64,7 @@ Assets:
 - "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7004_cf_D_V1.jpg"
 - "Assets/mod/\u661F\u56ED\u5730\u976201.fbm/3#_D7005_CF_AO_V001.jpg"
 - Assets/Prefab/Materials/3#_M7001_CF_V12.mat
+- "Assets/mod/\u81EA\u53D1\u5149\u73BB\u7483.fbm/3#_D5001_CF_D_V888.jpg"
 - Assets/Prefab/Materials/3#_M7001_CF_V7.mat
 - Assets/Prefab/Materials/3#_D9031_CF_D_V1.mat
 - Assets/Prefab/Materials/3#_M7001_CF_V3.mat
