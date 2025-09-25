@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2927189286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9120fbce44441bd7b2bfc2330f76969
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e38d2881cc9493fcc59a77d898abc55
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b9120fbce44441bd7b2bfc2330f76969
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5467bd6090cd9cb419942bd976ce8533, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+Assets:
+- Assets/Prefab/Main_Camera.prefab
+Dependencies: []

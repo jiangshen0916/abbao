@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1754602415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bacdf10d77b802d85c3fc4dba1afe2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1df3a9d2f37009956be973ae8ba1bc4d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3bacdf10d77b802d85c3fc4dba1afe2c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/grass_plane.prefab
+- "Assets/Prefab/\u5730\u9762.prefab"
+- "Assets/Prefab/\u5730\u57FA.prefab"
+Dependencies:
+- E:/UnityProjects/AssetBundle/AssetBundles/WebGL/model
+- E:/UnityProjects/AssetBundle/AssetBundles/WebGL/shared

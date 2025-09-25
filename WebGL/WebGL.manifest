@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3553959832
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model
+      Dependencies:
+        Dependency_0: shared
+    Info_1:
+      Name: shared
+      Dependencies: {}
+    Info_2:
+      Name: camera
+      Dependencies: {}
+    Info_3:
+      Name: plane
+      Dependencies:
+        Dependency_0: model
+        Dependency_1: shared

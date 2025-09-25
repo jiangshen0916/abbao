@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1688984484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89d33e2e84114e22090f78362a617b61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 89d33e2e84114e22090f78362a617b61
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/Texture/Floor.tif
+- Assets/Package/Texture/Classical Building Light.tif
+- Assets/Package/Materials/Classical Building.mat
+- Assets/Package/Texture/Classical Building.tif
+- Assets/Package/Materials/Floor.mat
+- Assets/Package/Texture/Classical Building Normal.tif
+Dependencies: []

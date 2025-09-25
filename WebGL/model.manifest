@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2346300307
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1855ee59d075854e90dc2f4f9cc3ea8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 98f789b792261ecccb2cedce16093c66
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1855ee59d075854e90dc2f4f9cc3ea8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Package/FBX/2.FBX
+- Assets/Package/FBX/8.FBX
+- Assets/Package/FBX/1.FBX
+- Assets/Package/FBX/9.FBX
+- Assets/Package/FBX/10.FBX
+- Assets/Package/FBX/grass_plane.FBX
+- Assets/Package/FBX/3.FBX
+- Assets/Package/FBX/7.FBX
+- Assets/Package/FBX/6.FBX
+- Assets/Package/FBX/5.FBX
+- Assets/Package/FBX/4.FBX
+Dependencies:
+- E:/UnityProjects/AssetBundle/AssetBundles/WebGL/shared
